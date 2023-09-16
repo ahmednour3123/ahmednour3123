@@ -6,9 +6,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Front-End+Web+Developer;Using+React+JS" alt="Typing SVG" /></a>
-</p> 
 
 - 🏢 I'm a Front-End Web Developer.
 - 🏆 I'm an ITI graduate. 
