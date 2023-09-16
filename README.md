@@ -1,5 +1,5 @@
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+
 
 <h3 align="center">
   My Name is Ahmed, Welcome To My Github Profile 
