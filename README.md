@@ -1,11 +1,11 @@
 
 
 
-<h3 align="center">
+<h3 align="left">
   My Name is Ahmed, Welcome To My Github Profile 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-<p align="center">
+<p align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=11ADF7&width=435&lines=Front-End+Web+Developer;Web+Designer" alt="Typing SVG" /></a>
 </p> 
 
