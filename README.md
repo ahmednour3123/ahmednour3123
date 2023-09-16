@@ -9,7 +9,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=11ADF7&width=435&lines=Front-End+Web+Developer;Web+Designer" alt="Typing SVG" /></a>
 </p> 
 
-- 🏢 I'm a Front-End Web Developer.
 - 🏆 I'm an ITI graduate. 
 - 👨‍💻I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with HTML, CSS and JavaScript or anything related to web development.
